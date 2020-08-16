@@ -7,8 +7,8 @@ Health Passport is a system which can guarantee a safer class environment during
 specifically for the professor side application. To see the other two platforms (Student side and Health 
 Service side), you can go to
 
-* https://github.com/cs394-s20/HealthTracker_Student_View
-* https://github.com/cs394-s20/HealthServices_View
+* https://github.com/anamkhan2/HealthTracker_Student_View
+* https://github.com/anamkhan2/HealthServices_View
 
 This web application allows professors to view information about their students.
 
